@@ -23,3 +23,5 @@ Nosso foco é facilitar a conexão entre pessoas e empresas, visualizando um fut
 • Inovação<br>
 • Qualidade<br>
 
+https://trello.com/invite/b/VWxv81X0/ATTIe51163799ae72436bb0783f573038990686B15AF/sprint
+
