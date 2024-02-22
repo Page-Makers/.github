@@ -5,7 +5,7 @@ Na Page Makers, nossa missão é criar sites inovadores para empresas prosperare
 Nosso foco é facilitar a conexão entre pessoas e empresas, visualizando um futuro onde o acesso instantâneo por meio de qualquer dispositivo seja uma realidade. Com isso, buscamos oferecer apoio e soluções que contribuam para o bom funcionamento da sociedade em diversas áreas.
 
 # Valores
-Confiança
-Criatividade
-Inovação
-Qualidade
+Confiança<br>
+Criatividade<br>
+Inovação<br>
+Qualidade<br>
